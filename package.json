@@ -1,15 +1,16 @@
 {
   "name": "spa-github-pages",
   "version": "2.0.0",
-  "description": "Single Page Apps for GitHub Pages",
+  "description": "React Single Page App, porfolio App for GitHub Pages",
   "scripts": {
     "start": "webpack -d --watch & live-server --entry-file=404.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "url": "git+https://github.com/Suryanarayanamurthy/Suryanarayanamurthy.github.io.git"
+
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "Suryanarayanamurthy <suryanarayan.murthy@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "current-input": "^1.1.0",
