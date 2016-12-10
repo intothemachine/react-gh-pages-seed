@@ -1,1 +1,1 @@
-seed for reat-gh-pages
+seed for react-gh-pages
