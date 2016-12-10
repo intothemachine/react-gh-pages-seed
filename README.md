@@ -1,1 +1,1 @@
-https://intothemachine.github.io/
+seed for reat-gh-pages
